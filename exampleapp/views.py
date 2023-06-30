@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-import random
+# import random
 
 def index(request):
      my_dict = {"insert_me":"yo what u say feeling good i am feeling great tired of this fucking hate;lfkjsdf;ljs views.py"}
